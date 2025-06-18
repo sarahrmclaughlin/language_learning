@@ -1,0 +1,29 @@
+kitchen:
+  oven:
+    - le four
+    - il forno
+  microwave:
+    - le micro-onde
+    - il microonde
+  fork:
+    - la forchette
+    - la forchetta
+  spoon:
+    - la cuilliere
+    - cucchaio
+  knife:
+    - le couteau
+    - il cotello
+  plate:
+    - la assiette
+    - piatto
+  glass:
+    - le verre
+    - bicchiere
+  cup:
+    - la tasse
+    - la tazza
+  refrigerator:
+    - le réfrigérateur
+    - frigorifero
+  
