@@ -5,3 +5,19 @@ kangaroo:
   plural:
     - les kangourou
     - i canguri
+shark:
+  singular:
+    - le requin
+    - lo squalo
+  plural:
+    - les requins
+    - gli squali
+giraffe:
+  singular:
+    - la girafe
+    - la giraffa
+  plural:
+    - les girafes
+    - le giraffe
+
+    
