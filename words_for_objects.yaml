@@ -3,7 +3,7 @@ kitchen:
     - le four
     - il forno
   microwave:
-    - le micro-onde
+    - le four à micro-ondes
     - il microonde
   fork:
     - la forchette
@@ -25,5 +25,8 @@ kitchen:
     - la tazza
   refrigerator:
     - le réfrigérateur
-    - frigorifero
+    - il frigorifero
+  sink: 
+    - l'évier
+    - il lavandino
   
