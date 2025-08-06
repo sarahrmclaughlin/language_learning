@@ -19,5 +19,12 @@ giraffe:
   plural:
     - les girafes
     - le giraffe
+squirrel:
+  singular:
+    - l'écureuil 
+    - lo scoiattolo
+  plural:
+    - les écureuils
+    - gli scoiattoli
 
     
