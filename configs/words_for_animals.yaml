@@ -26,5 +26,19 @@ squirrel:
   plural:
     - les écureuils
     - gli scoiattoli
+horse:
+  singular:
+    - le cheval 
+    - il cavallo
+  plural:
+    - les chevaux
+    - i cavalli
+dove:
+  singular:
+    - la colombe 
+    - la colomba
+  plural:
+    - les colombes
+    - le colombe
 
     
