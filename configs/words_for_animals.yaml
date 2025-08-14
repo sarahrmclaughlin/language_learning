@@ -40,5 +40,11 @@ dove:
   plural:
     - les colombes
     - le colombe
-
+octopus:
+  singular:
+    - la pieuvre 
+    - il polpo
+  plural:
+    - les pieuvres
+    - i polpi
     
