@@ -47,4 +47,11 @@ octopus:
   plural:
     - les pieuvres
     - i polpi
+raven:
+  singular:
+    - le corbeau 
+    - il corvo
+  plural:
+    - les corbeaux
+    - i corvi
     
