@@ -1,3 +1,16 @@
+bathroom:
+  bathtub:
+    - la bagnoire
+    - la vasca
+  shower:
+    - la douche
+    - la doccia
+  sink:
+    - la lavabo
+    - il lavandino
+  toilet:
+    - le toilettes
+    - il water
 kitchen:
   oven:
     - le four
