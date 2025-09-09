@@ -11,6 +11,21 @@ bathroom:
   toilet:
     - le toilettes
     - il water
+  mirror:
+    - le miroir
+    - lo specchio
+  soap:
+    - le savon
+    - il sapone
+  comb:
+    - le peigne
+    - il pettine
+  hairbrush:
+    - la brosse à cheveux
+    - la spazzola per capelli
+  towel:
+    - la serviette
+    - l’asciugamano
 kitchen:
   oven:
     - le four
