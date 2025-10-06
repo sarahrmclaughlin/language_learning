@@ -54,4 +54,11 @@ raven:
   plural:
     - les corbeaux
     - i corvi
+hedgehog:
+  singular:
+    - le hérisson 
+    - il riccio
+  plural:
+    - les hérissons
+    - i ricci
     
