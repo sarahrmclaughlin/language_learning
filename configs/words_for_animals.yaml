@@ -61,4 +61,18 @@ hedgehog:
   plural:
     - les hérissons
     - i ricci
+puppy:
+  singular:
+    - le chiot 
+    - il cucciolo
+  plural:
+    - les chiots
+    - i cuccioli
+kitten:
+  singular:
+    - le chaton 
+    - il gattino
+  plural:
+    - les chatons
+    - i gattini
     
