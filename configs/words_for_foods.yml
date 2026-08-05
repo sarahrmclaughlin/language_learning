@@ -1,0 +1,14 @@
+onion:
+  singular:
+    - l'oignon
+    - la cipolla
+  plural:
+    - les oignons
+    - le cipolle
+basil:
+  singular:
+    - le basilic
+    - il basilico
+  plural:
+    - les basilics
+    - i basilici
